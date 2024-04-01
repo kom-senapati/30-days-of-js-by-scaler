@@ -17,5 +17,5 @@ print()
 print("Copy and post on Twitter 👇\n")
 print(
     choice(message_templates).replace("#", day)
-    + "\nJoin the adventure, tackle challenges, and connect with enthusiasts! https://bit.ly/scalerdiscord\n#30DaysOfNodejs #ScalerDiscord #ScalerTopics @scaler_official"
+    + "\nJoin the adventure, tackle challenges, and connect with enthusiasts! https://bit.ly/scalerdiscord\n#30DaysOfArraysAndLists #ScalerDiscord #ScalerTopics @scaler_official"
 )
