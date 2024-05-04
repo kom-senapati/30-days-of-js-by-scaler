@@ -9,7 +9,7 @@ active = ![Active 🔥](https://img.shields.io/badge/active-orange?style=for-the
 | ------------- | :-----------: |
 | 30 days of JavaScript X Scaler Topics  | ![Completed ✅](https://img.shields.io/badge/completed-green?style=for-the-badge)  |
 | 30 Days of Node.js  | ![Completed ✅](https://img.shields.io/badge/completed-green?style=for-the-badge) |
-| 30 days of Arrays & Linked lists  | ![Active 🔥](https://img.shields.io/badge/active-orange?style=for-the-badge) |
+| 30 days of Arrays & Linked lists  | ![Cancelled ❌](https://img.shields.io/badge/cancelled-red?style=for-the-badge) |
 
 
 ## About This Repository
